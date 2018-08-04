@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const API_KEY = 'AIzaSyBjuHvgG4lzD3p3Ky7RZH4951IshC9ajAQ';
+const API_KEY = 'YOUR_YOUTUBE_API_KEY_HERE';
 
 // Create a new component. This component should produce 
 // some HTML
